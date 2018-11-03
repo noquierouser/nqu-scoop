@@ -1,0 +1,13 @@
+{
+  "homepage": "https://rammichael.com/7-taskbar-tweaker",
+  "description": "It allows you to configure various aspects of the Windows taskbar which can’t be tweaked using the taskbar properties or the registry.",
+  "version": "5.5",
+  "url": "https://rammichael.com/downloads/7tt_setup.exe",
+  "hash": "0fb4f9dd4cfe1635d75c26789abcc78f26bd4dda3aa12c460f716bae694cefa6",
+  "installer": {
+    "file": "7tt_setup.exe"
+  },
+  "uninstaller": {
+    "script": "& \"$env:appdata\\7+ Taskbar Tweaker\\uninstall.exe\""
+  }
+}
