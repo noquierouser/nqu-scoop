@@ -1,0 +1,7 @@
+{
+  "homepage": "https://support.logitech.com/en_us/software/options",
+  "version": "6.94.17",
+  "url": "https://download01.logi.com/web/ftp/pub/techsupport/options/Options_6.94.17.exe",
+  "hash": "bca5495f47511e0a956d6b737cbdb2a4404a0ab8e10c3e2338ccab1ef3cad86e",
+  "post_install" : "run \"$dir/Options_$version.exe\""
+}
