@@ -1,0 +1,13 @@
+{
+  "homepage": "https://www.minitool.com/partition-manager/partition-wizard-home.html",
+  "description": "All-inclusive partition manager that keeps your PC running at its best.",
+  "version": "10.3",
+  "url": "https://www.partitionwizard.com/download/10.3/pw103-free.exe#dl.exe",
+  "hash": "92e436f2cc1e6901b28bf18f8fc07523a00f3408a80f98cefb1fc31f1b8b8e53",
+  "installer": {
+    "file": "dl.exe"
+  },
+  "uninstaller": {
+    "script": "& \"$env:ProgramFiles\\MiniTool Partition Wizard 10\\unins000.exe\""
+  }
+}
