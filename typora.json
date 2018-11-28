@@ -1,0 +1,9 @@
+{
+  "homepage": "https://typora.io/#windows",
+  "description": "A decent markdown editor finally available on Windows.",
+  "version": "0.9.9.60",
+  "url": "https://typora.io/windows/typora-setup-x64.exe#dl.exe",
+  "installer": {
+    "file": "dl.exe"
+  }
+}
