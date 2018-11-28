@@ -3,7 +3,7 @@
   "description": "A decent markdown editor finally available on Windows.",
   "version": "0.9.9.60",
   "url": "https://typora.io/windows/typora-setup-x64.exe#dl.exe",
-  "hash": "09a8daa114563c6a29bb132be3ad0c9779f74d05",
+  "hash": "0afcb283e30dba4722fbbaa96395c671e2af97a55246e2bfad91e6c2c0ad3d0f",
   "installer": {
     "file": "dl.exe"
   }
