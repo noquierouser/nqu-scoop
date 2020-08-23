@@ -1,9 +1,0 @@
-{
-  "homepage": "https://prepros.io/",
-  "description": "Compile Sass, Less, Stylus, Jade, CoffeeScript on Mac, Windows & Linux with Live Browser Reload.",
-  "version": "6.2.3",
-  "url": "https://prepros.io/downloads/stable/windows#/prepros.exe",
-  "installer": {
-    "file": "prepros.exe"
-  }
-}
